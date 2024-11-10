@@ -1,0 +1,5 @@
+{
+  "rootDirectory": "./archivos",
+  "port": 8080,
+  "errorDirectory": "./404NotFound"
+}
